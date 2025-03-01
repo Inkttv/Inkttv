@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inkttv
+- 👋 Hi, I’m @RyanReid09
 - 👀 I’m interested in developing programs that can better help many people increase performance of their computer without compromising the life expectancy of their machine.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
